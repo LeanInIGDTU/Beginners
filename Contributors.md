@@ -8,26 +8,26 @@ After [adding making a pull request], include your name and link for your Github
 
 under the appropriate header.
 
-# C
+## C
 
--[Tanya Vedi](https://github.com/tanya-vedi)
--[Apoorva Singh](https://github.com/apoorvasingh17)
-
-
-# C++
-
--[Tanya Vedi](https://github.com/tanya-vedi)
--[Apoorva Singh](https://github.com/apoorvasingh17)
+- [Tanya Vedi](https://github.com/tanya-vedi)
+- [Apoorva Singh](https://github.com/apoorvasingh17)
 
 
+## C++
 
-# Java
-
--[Tanya Vedi](https://github.com/tanya-vedi)
--[Apoorva Singh](https://github.com/apoorvasingh17)
+- [Tanya Vedi](https://github.com/tanya-vedi)
+- [Apoorva Singh](https://github.com/apoorvasingh17)
 
 
-# Web Development 
 
--[Tanya Vedi](https://github.com/tanya-vedi)
--[Apoorva Singh](https://github.com/apoorvasingh17)
+## Java
+
+- [Tanya Vedi](https://github.com/tanya-vedi)
+- [Apoorva Singh](https://github.com/apoorvasingh17)
+
+
+## Web Development 
+
+- [Tanya Vedi](https://github.com/tanya-vedi)
+- [Apoorva Singh](https://github.com/apoorvasingh17)
