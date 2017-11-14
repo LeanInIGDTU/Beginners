@@ -10,24 +10,24 @@ under the appropriate header.
 
 # C
 
-1.[Tanya Vedi](https://github.com/tanya-vedi)
-2.[Apoorva Singh](https://github.com/apoorvasingh17)
+-[Tanya Vedi](https://github.com/tanya-vedi)
+-[Apoorva Singh](https://github.com/apoorvasingh17)
 
 
 # C++
 
-1.[Tanya Vedi](https://github.com/tanya-vedi)
-2.[Apoorva Singh](https://github.com/apoorvasingh17)
+-[Tanya Vedi](https://github.com/tanya-vedi)
+-[Apoorva Singh](https://github.com/apoorvasingh17)
 
 
 
 # Java
 
-1.[Tanya Vedi](https://github.com/tanya-vedi)
-2.[Apoorva Singh](https://github.com/apoorvasingh17)
+-[Tanya Vedi](https://github.com/tanya-vedi)
+-[Apoorva Singh](https://github.com/apoorvasingh17)
 
 
 # Web Development 
 
-1.[Tanya Vedi](https://github.com/tanya-vedi)
-2.[Apoorva Singh](https://github.com/apoorvasingh17)
+-[Tanya Vedi](https://github.com/tanya-vedi)
+-[Apoorva Singh](https://github.com/apoorvasingh17)
