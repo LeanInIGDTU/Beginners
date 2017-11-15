@@ -1,8 +1,8 @@
-#include<iostream.h>
-#include<conio.h>
-void main()
+#include<iostream>
+using namespace std;
+int main()
 {
-  clrscr();
+   
   int arr[10], i, num, n, c=0, pos;
   cout<<"Enter the array size : ";
   cin>>n;
@@ -30,5 +30,5 @@ void main()
   {
     cout<<num<<" found at position "<<pos;
   }
-  getch();
+    return 0;
 }
