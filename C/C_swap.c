@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main()
+void main()
 {
       double firstNumber, secondNumber, temporaryVariable;
 

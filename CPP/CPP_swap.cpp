@@ -10,6 +10,6 @@ cin>>b;
 c=a;
 a=b;
 b=c;
-cout<<"After swap a: "<<a<<"b: "<<b;
+cout<<"After swap a: "<<b<<"b: "<<a;
 return 0;
 }

@@ -13,7 +13,7 @@ for(i=0; i<no; i++)
 cout<<"\n"<<first;
 next = first + second;
 first = second;
-second = next;
+second = first;
 }
     return 0;
 }
