@@ -3,17 +3,24 @@ using namespace std;
 int main()
 {
 int i,no, first=0, second=1, next;
-first=0;
-second=1;
-cout<<"Enter nubmer of terms for Series: ";
+cout<<"Enter number of terms for Series: ";
 cin>>no;
 cout<<"Fibonacci series are: \n";
 for(i=0; i<no; i++)
 {
-cout<<"\n"<<first;
-next = first + second;
-first = second;
-second = first;
+    if(i<=1)
+    {
+        next=first;
+        first=second;
+        second=next;
+    }
+    else
+    {
+        next = first + second;
+        first = second;
+        second = next;
+    }
+    cout<<next<<"\t;
 }
     return 0;
 }
