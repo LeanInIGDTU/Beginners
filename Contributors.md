@@ -18,6 +18,7 @@ under the appropriate header.
 
 - [Tanya Vedi](https://github.com/tanya-vedi)
 - [Apoorva Singh](https://github.com/apoorvasingh17)
+- [Priyanka Daryani](https://github.com/priyankajune)
 
 
 
