@@ -14,10 +14,12 @@ under the appropriate header.
 - [Apoorva Singh](https://github.com/apoorvasingh17)
 
 
+
 ## C++
 
 - [Tanya Vedi](https://github.com/tanya-vedi)
 - [Apoorva Singh](https://github.com/apoorvasingh17)
+- [Ronika Das](https://github.com/ronika-das)
 
 
 
@@ -31,3 +33,4 @@ under the appropriate header.
 
 - [Tanya Vedi](https://github.com/tanya-vedi)
 - [Apoorva Singh](https://github.com/apoorvasingh17)
+- [Ronika Das](https://github.com/ronika-das)
