@@ -24,7 +24,7 @@ int main()
   }
   if(c==0)
   {
-    cout<<"Number not found..!!"
+    cout<<"Number not found..!!";
   }
   else
   {
