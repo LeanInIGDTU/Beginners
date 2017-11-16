@@ -18,14 +18,14 @@ under the appropriate header.
 
 - [Tanya Vedi](https://github.com/tanya-vedi)
 - [Apoorva Singh](https://github.com/apoorvasingh17)
-
+- [Manu Goel](https://github.com/manugoelvmc)
 
 
 ## Java
 
 - [Tanya Vedi](https://github.com/tanya-vedi)
 - [Apoorva Singh](https://github.com/apoorvasingh17)
-
+- [Manu Goel](https://github.com/manugoelvmc)
 
 ## Web Development 
 
