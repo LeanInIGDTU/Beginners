@@ -4,7 +4,7 @@ import java.io.*;
 
 class zeroSumSubarray{
 	public static void main (String[] args) {
-		Scanner scan;
+		Scanner scan=new Scanner(System.in);
 		int T = scan.nextInt();
 		for(int a=0;a<T;a++){
 		    int N = scan.nextInt();
