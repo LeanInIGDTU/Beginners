@@ -1,0 +1,70 @@
+<html>
+	<head>
+		<title>Move Box</title>
+		<style>
+			div.d00
+			{
+				border: 25px solid green;
+			}
+		</style>
+	</head>
+	<body>
+	<div class="d00" id="d01" style="width:350px;height:550px;background:pink;">
+		<div id="d02" style="width:25px;height:25px;background:red;top:10px;left:10px;position:relative;"> 
+		</div>
+	</div>
+	<form>
+		<table>
+			<tr >
+				<td><input type="button" value="  up " onclick="moveUp()"></td>
+				<td><input type="button" value="down " onclick="moveDown()"></td>
+			</tr>
+			<tr>
+				<td><input type="button" value="left " onclick="moveLeft()"></td>
+				<td><input type="button" value="right" onclick="moveRight()"></td>
+			</tr>
+		</table>  
+	</form>
+	<script>
+		function moveLeft()
+		{
+			var element = document.getElementById("d02");
+			var e2 = document.getElementById("d01");
+			if(parseInt(element.style.left)>25)
+			{
+				element.style.left = (parseInt(element.style.left) - 20) +"px";
+			}
+		}
+		function moveRight()
+		{
+			var element = document.getElementById("d02");
+			var e2 = document.getElementById("d01");
+			if(parseInt(element.style.left)<parseInt(e2.style.width)-45)
+			{
+				element.style.left = (20 + parseInt(element.style.left)) +"px";
+			}
+		}
+		function moveUp()
+		{
+			var element = document.getElementById("d02");
+			var e2 = document.getElementById("d01");
+			if(parseInt(element.style.top)<=parseInt(e2.style.height)-25)
+			{
+				if(parseInt(element.style.top)>25)
+				{
+				element.style.top = ( parseInt(element.style.top) - 20) +"px";
+				}
+			}
+		}
+		function moveDown()
+		{
+			var element = document.getElementById("d02");
+			var e2 = document.getElementById("d01");
+			if(parseInt(element.style.top)<parseInt(e2.style.height)-45)
+			{
+				element.style.top = (20 + parseInt(element.style.top)) +"px";
+			}
+		}
+	</script>
+	</body>
+</html>
