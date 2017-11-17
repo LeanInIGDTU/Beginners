@@ -15,5 +15,5 @@ next = first + second;
 first = second;
 second = next;
 }
-    return 0;
+    return next;
 }
