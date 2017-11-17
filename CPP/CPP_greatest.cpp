@@ -1,6 +1,5 @@
 
 #include<iostream>
-#include<conio.h>
 using namespace std;
 int main() 
 {
@@ -21,6 +20,6 @@ else
 {
 cout<<"Largest number: "<<c;
 }
-getch();
+
 return 0;
 }
