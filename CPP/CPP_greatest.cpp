@@ -1,5 +1,5 @@
 
-#includeiostream
+#include<iostream>
 using namespace std;
 int main() 
 {
@@ -12,11 +12,11 @@ if(a>=b && a>=c)
 {
 cout<<"Largest number: "<<a;
 }
-if(b>=a && b>=c) 
+else if(b>=c) 
 {
 cout<<"Largest number: "<<b;
 }
-if(c>=a && c>=b) 
+else  
 {
 cout<<"Largest number: "<<c;
 }
