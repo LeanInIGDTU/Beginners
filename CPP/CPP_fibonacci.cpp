@@ -20,7 +20,7 @@ for(i=0; i<no; i++)
         first = second;
         second = next;
     }
-    cout<<next<<"\t;
+    cout<<next<<"\t";
 }
     return 0;
 }
