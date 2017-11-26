@@ -12,7 +12,7 @@ under the appropriate header.
 
 - [Tanya Vedi](https://github.com/tanya-vedi)
 - [Apoorva Singh](https://github.com/apoorvasingh17)
-- [Eesha Goyal] (https://github.com/eeshagoyal)
+- [Eesha Goyal](https://github.com/eeshagoyal)
 - [Sakshi Vij](https://github.com/sakshivij21)
 
 
