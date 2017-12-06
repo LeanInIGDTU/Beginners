@@ -1,0 +1,67 @@
+package l5;
+
+import java.util.Scanner;
+
+public class MergeSort {
+
+
+	public static int[] takeinput() {
+		Scanner s = new Scanner(System.in);
+		System.out.println("Enter size of array:");
+		int n = s.nextInt();
+		int input[] = new int[n];
+		System.out.println("Enter array:");
+		for (int i = 0; i < n; i++) {
+			
+			input[i] = s.nextInt();
+		}
+		return input;
+	}
+	public static int[] msort(int input1[],int input2[])
+	{
+		int m=input1.length,n=input2.length,p=n+m;
+		int input3[]=new int[p],i=0,k=0,j=0;
+		while(i<m && j<n)
+		{
+			if(input1[i]<input2[j])
+			{
+				input3[k]=input1[i];
+				i++;
+				k++;
+			}
+			else	
+			{
+				input3[k]=input2[j];
+				j++;
+				k++;
+			}
+			
+		}
+			while(i<m)
+			{	input3[k]=input1[i];
+				i++;
+				k++;
+			}
+		
+		while(j<n)
+		{
+			input3[k]=input2[j];
+			j++;
+			k++;
+		}
+		
+		return input3;
+	}
+	public static void main(String[] args) {
+		int input1[],input2[],sort[];
+		input1=takeinput();
+		input2=takeinput();
+		sort=msort(input1,input2);
+		for(int i=0;i<sort.length;i++)
+		{
+			System.out.print(sort[i]+" ");
+
+		}
+	}
+
+}
