@@ -28,6 +28,8 @@ class Stack
             a[++top] = x;
             return true;
         }
+       
+       return false;
     }
  
     int pop()
