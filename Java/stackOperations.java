@@ -21,14 +21,14 @@ class Stack
         if (top >= MAX)
         {
             System.out.println("Stack Overflow");
-            
+            return false;
         }
         else
         {
             a[++top] = x;
             return true;
         }
-       return false;
+       
     }
  
     int pop()
