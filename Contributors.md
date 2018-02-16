@@ -37,7 +37,7 @@ under the appropriate header.
 - [Manu Goel](https://github.com/manugoelvmc)
 - [Yukti Gupta](https://github.com/<xyzyg>)
 - [Sakshi Vij](https://github.com/sakshivij21)
-
+- [Ritika](https://github.com/rtkvrm)
 
 ## Web Development 
 
