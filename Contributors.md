@@ -12,7 +12,7 @@ under the appropriate header.
 
 - [Tanya Vedi](https://github.com/tanya-vedi)
 - [Apoorva Singh](https://github.com/apoorvasingh17)
-- [Eesha Goyal] (https://github.com/eeshagoyal)
+- [Eesha Goyal](https://github.com/eeshagoyal)
 - [Sakshi Vij](https://github.com/sakshivij21)
 - [Ronika Das](http://github.com/ronika-das)
 
@@ -21,6 +21,8 @@ under the appropriate header.
 
 - [Tanya Vedi](https://github.com/tanya-vedi)
 - [Apoorva Singh](https://github.com/apoorvasingh17)
+- [Manu Goel](https://github.com/manugoelvmc)
+- [Yukti Gupta](https://github.com/<xyzyg>)
 - [Soumya Jain](https://github.com/soumyajain51)
 - [Gurmeisha Chadha](https://github.com/gurmeisha)
 - [Priyanka Daryani](https://github.com/priyankajune)
@@ -32,7 +34,10 @@ under the appropriate header.
 
 - [Tanya Vedi](https://github.com/tanya-vedi)
 - [Apoorva Singh](https://github.com/apoorvasingh17)
+- [Manu Goel](https://github.com/manugoelvmc)
+- [Yukti Gupta](https://github.com/<xyzyg>)
 - [Sakshi Vij](https://github.com/sakshivij21)
+- [Ritika](https://github.com/rtkvrm)
 
 ## Web Development 
 
