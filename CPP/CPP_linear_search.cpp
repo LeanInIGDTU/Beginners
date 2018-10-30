@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
    
-  int arr[10], i, num, n, f=0, pos;
+  int arr[10], i, num, n, f=0;
   cout<<"Enter the array size : ";
   cin>>n;
   cout<<"Enter Array Elements : ";
@@ -13,7 +13,7 @@ int main()
   }
   cout<<"Enter the number to be search : ";
   cin>>num;
-   for(int i=0;i<n;i++)
+   for(i=0;i<n;i++)
    {
       if(arr[i]==num)
       {
