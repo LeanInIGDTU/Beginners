@@ -1,6 +1,7 @@
 #include <stdio.h>
+#include <conio.h>
 int main()
-{
+{ clrscr();
     double n1, n2, n3;
 
     printf("Enter three different numbers: ");
@@ -16,4 +17,5 @@ int main()
         printf("%.2f is the largest number.", n3);
 
     return 0;
+    getch();
 }
